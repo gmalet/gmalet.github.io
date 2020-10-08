@@ -7,4 +7,4 @@ toc: true
 ---
 
 
-I am a postodoctoral researcher at the University of Zurich.
+I am a postdoctoral researcher at the University of Zurich.
