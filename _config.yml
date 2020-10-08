@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : #""
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "pic.jpg"
   bio              : "comparative politics, elections, public opinion, European Union politics"
   location         : "Zurich"
   email            : #""
