@@ -1,5 +1,5 @@
 ---
-title: "Yeaching"
+title: "Teaching"
 layout: archive
 permalink: /teaching/
 author_profile: true
@@ -15,7 +15,7 @@ toc: true
 # Past Courses
 
 
-- **University of Luzerne**, Fall 2019
+- **University of Lucerne**, Fall 2019
     - Contemporary Challenges to European Democracies, MA level
 
 - **University of Düsseldorf**, Spring 2019
