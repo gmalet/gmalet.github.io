@@ -7,7 +7,7 @@ toc: true
 ---
 
 
-My research investigates the connections between domestic politics and international relations. I study both the international reverberations of national political developments and the domestic sources of international cooperation, especially in the context of the European Union. At the crossroad of European politics and EU politics, my research agenda analyzes how voters can learn from foregn  developments, and how the interactions between voter preferences and party strategies shape the course of European integration.
+My research investigates the connections between domestic politics and international relations. I study both the international reverberations of national political developments and the domestic sources of international cooperation, especially in the context of the European Union. At the crossroad of European politics and EU politics, my research agenda analyzes how voters can learn from foreign  developments, and how the interactions between voter preferences and party strategies shape the course of European integration.
 
 
 - **Working papers**
