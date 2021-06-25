@@ -34,10 +34,10 @@ My research investigates the connections between domestic politics and internati
 
 - **Publications**
 
-    - 2020. “Economic shocks and the cost of ruling: Evidence from Italy.” In Journal of Elections, Public Opinion, and Parties. 30 (1), 22-41 (with H. Kriesi) 
+    - “Economic shocks and the cost of ruling: Evidence from Italy.” In Journal of Elections, Public Opinion, and Parties. 30 (1), 22-41, 2020. (with H. Kriesi) 
 
-	- 2019. “Italy - The end of bipolarism: Restructuration in an unstable party system.” In S. Hutter and H. Kriesi (eds.). European party politics in times of crises. Cambridge University Press (with J. Karremans and D. Morisi) 
+	- “Italy - The end of bipolarism: Restructuration in an unstable party system.” In S. Hutter and H. Kriesi (eds.). European party politics in times of crises. Cambridge University Press. 2019. (with J. Karremans and D. Morisi) 
 
-	- 2019. “Ireland - Limited restructuration in the posterchild of austerity.” In S. Hutter and H. Kriesi (eds.). European party politics in times of crises. Cambridge University Press (with S. Hutter) 
+	- “Ireland - Limited restructuration in the posterchild of austerity.” In S. Hutter and H. Kriesi (eds.). European party politics in times of crises. Cambridge University Press. 2019. (with S. Hutter) 
 
-	- 2015. “A new cleavage in Europe? The rise of Eurosceptic parties in France, Italy, and the UK.” Quaderni dell’Osservatorio Elettorale - Italian Journal of Electoral Studies 74 (in Italian) 
+	- “A new cleavage in Europe? The rise of Eurosceptic parties in France, Italy, and the UK.” Quaderni dell’Osservatorio Elettorale - Italian Journal of Electoral Studies 74, 2015. (in Italian) 
