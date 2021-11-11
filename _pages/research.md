@@ -12,8 +12,8 @@ My research investigates the connections between domestic politics and internati
 
 - **Working papers**
     
-    - Cross-national social influence: How foreign votes can affect domestic public opinion (R&R)
-
+    - Cross-national social influence: How foreign votes can affect domestic public opinion, Conditionally Accepted at Comparative Political Studies
+    
 	- The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns
 
 	- Constrained politicization: How mainstream parties respond to public Euroscepticism (with C. Thiébaut)
