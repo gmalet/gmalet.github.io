@@ -7,11 +7,13 @@ toc: true
 ---
 
 
-In my research, I study the domestic sources of international cooperation, especially in the context of the European Union. At the crossroad of European politics and EU politics, my research agenda analyzes how voters form their political preferences and at which level of government they want their preferences to be addressed. In particular, I am interested in how voters learn from foreign developments, how they respond to party discourse, and how the interactions between voters and parties shape the course of European integration. 
+My research focuses on public opinion and party competition, with a special focus on the domestic politics of European integration. At the crossroad of European politics and EU politics, my research agenda examines both how voters form their political preferences and how party elites respond to these preferences. In particular, I am interested in how voters learn from foreign developments, how they shape and respond to party discourse, and how the policies produced by the European Union affect whether people support a political authority beyond the nation state.
 
 
 
 - **Publications**
+	- "Have your cake and eat it, too? Switzerland and the feasibility of differentiated integration after Brexit" <em>West European Politics</em>, forthcoming. (with S. Walter) 
+	<em>2022 EUSA Best Conference Paper Award</em>
 
     - "Cross-national social influence: How foreign votes can affect domestic public opinion." <em>Comparative Political Studies</em>, 2022. <a href="https://journals.sagepub.com/doi/full/10.1177/00104140221088846">Link</a>
 
@@ -27,20 +29,22 @@ In my research, I study the domestic sources of international cooperation, espec
 - **Working papers**
     
     
-	- Silent responsiveness: How public opinion constrains political discourse on European integration (with C. Thiébaut) <em>Under Review</em>
+	- Silent responsiveness: How public opinion constrains political discourse on European integration (with C. Thiébaut) <em>R&R at the European Journal of Political Research</em>
 
-	- Process-based benchmarking: How voters learn from abroad when policy outcomes are unclear (with S. Walter) <em>Under Review</em>
-
-	- Have your cake and eat it, too? Exit precedents and the perceived costs of non-cooperation (with S. Walter) <em>Under Review</em>
+	- The reverberations of British Brexit politics: A case study in voter cross-national learning (with S. Walter) <em>R&R at European Union Politics</em>
 
 	- The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns
+
+    - Party polarization and public support for European integration across policy areas
+
+    - How threats and promises affect support for international cooperation: Evidence from framing experiments in four countries (with S. Walter)
 
 
 
 - **Work in progress**
     
-    - Instrumental support for international cooperation: Evidence from EU policy regimes
+	- How rural development policies affect political attitudes: Evidence from the Common Agricultural Policy in France (with D. Bolet)
 
-	- Party-voter interactions and the politicization of international cooperation (with T. Hunter, M. Martini, S. Shim, and S. Walter)
+	- Europe in the news: Media tone, public opinion, and party strategies (with T. Hunter and S. Walter)
 
-	- Public perceptions of borders' legitimacy (with R. Sczepanski and J. Lipps)
+	- Public support for border security policies (with R. Sczepanski and J. Lipps)
