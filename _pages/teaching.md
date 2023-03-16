@@ -7,14 +7,15 @@ toc: true
 ---
 
 
-- **University of Zurich**, Fall 2020, Fall 2021
-    - The Political Economy of Elections, MA level
+- **University of Zurich**, 
+    - Democracy and multilevel governance, MA level (Spring 2023)
+    - The Political Economy of Elections, MA level (Fall 2020, Fall 202)
 
-- **University of Lucerne**, Fall 2019
-    - Contemporary Challenges to European Democracies, MA level
+- **University of Lucerne**
+    - Contemporary Challenges to European Democracies, MA level (Fall 2019)
 
-- **University of Düsseldorf**, Spring 2019
-    - Contemporary Challenges to European Democracies, BA level
+- **University of Düsseldorf**
+    - Contemporary Challenges to European Democracies, BA level (Spring 2019)
 
-- **European University Institute**, Fall 2016
-    - Introduction to quantitative methods, PhD level (TA)
+- **European University Institute**
+    - Introduction to quantitative methods, PhD level (TA) (Fall 2016)
