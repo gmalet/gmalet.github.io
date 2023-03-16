@@ -12,7 +12,8 @@ My research focuses on public opinion and party competition, with a special focu
 
 
 - **Publications**
-	- "Have your cake and eat it, too? Switzerland and the feasibility of differentiated integration after Brexit" <em>West European Politics</em>, forthcoming. (with S. Walter) 
+	- "Have your cake and eat it, too? Switzerland and the feasibility of differentiated integration after Brexit" <em>West European Politics</em>, forthcoming. (with S. Walter)
+	 
 	<em>2022 EUSA Best Conference Paper Award</em>
 
     - "Cross-national social influence: How foreign votes can affect domestic public opinion." <em>Comparative Political Studies</em>, 2022. <a href="https://journals.sagepub.com/doi/full/10.1177/00104140221088846">Link</a>
@@ -33,7 +34,7 @@ My research focuses on public opinion and party competition, with a special focu
 
 	- The reverberations of British Brexit politics: A case study in voter cross-national learning (with S. Walter) <em>R&R at European Union Politics</em>
 
-	- The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns
+	- The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns <em>Under Review</em> 
 
     - Party polarization and public support for European integration across policy areas
 
