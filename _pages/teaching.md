@@ -8,7 +8,7 @@ toc: true
 
 
 - **University of Zurich**, 
-    - Democracy and multilevel governance, MA level (Spring 2023)
+    - Democracy and Multilevel Governance, MA level (Spring 2023)
     - The Political Economy of Elections, MA level (Fall 2020, Fall 202)
 
 - **University of Lucerne**
