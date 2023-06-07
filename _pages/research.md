@@ -46,5 +46,5 @@ My research focuses on public opinion and party competition, with a special focu
     
 	- How rural development policies affect political attitudes: Evidence from the Common Agricultural Policy in France (with D. Bolet)
 
-	- Europe in the news: Media covergae, public opinion, and party strategies (with T. Hunter and S. Walter)
+	- Europe in the news: Media coverage, public opinion, and party strategies (with T. Hunter and S. Walter)
 
