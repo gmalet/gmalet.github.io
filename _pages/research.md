@@ -38,13 +38,13 @@ My research focuses on public opinion and party competition, with a special focu
     - Party polarization and public support for European integration across policy areas
 
     - How threats and promises affect support for international cooperation: Evidence from framing experiments in four countries (with S. Walter)
-
+    
+    - Policy characteristics and public support for border security (with R. Sczepanski and J. Lipps)
 
 
 - **Work in progress**
     
 	- How rural development policies affect political attitudes: Evidence from the Common Agricultural Policy in France (with D. Bolet)
 
-	- Europe in the news: Media tone, public opinion, and party strategies (with T. Hunter and S. Walter)
+	- Europe in the news: Media covergae, public opinion, and party strategies (with T. Hunter and S. Walter)
 
-	- Public support for border security policies (with R. Sczepanski and J. Lipps)
