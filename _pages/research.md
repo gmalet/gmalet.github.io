@@ -36,10 +36,10 @@ My research focuses on public opinion and party competition, with a special focu
 	- The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns <em>R&R at Journal of European Public Policy</em>
 
    	- Party polarization and venue shopping in the mass public
-
-   	 - How threats and promises affect support for international cooperation (with S. Walter)
-    
-   	 - Policy characteristics and public support for border security (with R. Sczepanski and J. Lipps)
+	
+	- How threats and promises affect support for international cooperation (with S. Walter)
+	
+	- Policy characteristics and public support for border security (with R. Sczepanski and J. Lipps)
 	 
 	- Does financial assistance mitigate rural backlash? The case of the Common Agricultural Policy in France (with D. Bolet)
 
