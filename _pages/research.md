@@ -34,8 +34,8 @@ My research focuses on public opinion and party competition, with a special focu
 	- Silent responsiveness: How public opinion affects party discourse on wedge issues (with C. Thiébaut) <em>R&R at the European Journal of Political Research</em>
 	
 	- The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns <em>R&R at Journal of European Public Policy</em>
-
-   	- Party polarization and venue shopping in the mass public
+	
+	- Party polarization and venue shopping in the mass public
 	
 	- How threats and promises affect support for international cooperation (with S. Walter)
 	
