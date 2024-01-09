@@ -13,11 +13,11 @@ My research focuses on public opinion and party competition, with a special focu
 
 - **Journal Articles**
 	
-	- "Silent responsiveness: How public opinion affects party discourse on wedge issues" (with C. Thiébaut), Forthcoming at <em>European Journal of Political Research</em>
+	- "Silent responsiveness: How public opinion affects party discourse on wedge issues." Forthcoming at <em>European Journal of Political Research</em> (with C. Thiébaut)
 	
-	- "The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns", Forthcoming at <em>Journal of European Public Policy</em>
+	- "The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns." Forthcoming at <em>Journal of European Public Policy</em>
 	
-	- "The reverberations of British Brexit politics abroad." (with S. Walter), Forthcoming at <em>European Union Politics</em>.
+	- "The reverberations of British Brexit politics abroad." <em>European Union Politics</em>, 2023. (with S. Walter), <a href="https://journals.sagepub.com/doi/full/10.1177/14651165231207225">Link</a> 
 
 	- "Have your cake and eat it, too? Switzerland and the feasibility of differentiated integration after Brexit" <em>West European Politics</em>, 2023. (with S. Walter) <a href="https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2192083">Link</a> - <em>(2022 EUSA Best Conference Paper Award)</em>
 	
