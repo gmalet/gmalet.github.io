@@ -20,8 +20,8 @@ My research focuses on public opinion and party competition, with a special focu
 	- "The reverberations of British Brexit politics abroad." (with S. Walter), Forthcoming at <em>European Union Politics</em>.
 
 	- "Have your cake and eat it, too? Switzerland and the feasibility of differentiated integration after Brexit" <em>West European Politics</em>, 2023. (with S. Walter) <a href="https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2192083">Link</a> - <em>(2022 EUSA Best Conference Paper Award)</em>
-
-    	- "Cross-national social influence: How foreign votes can affect domestic public opinion." <em>Comparative Political Studies</em>, 2022. <a href="https://journals.sagepub.com/doi/full/10.1177/00104140221088846">Link</a>
+	
+	- "Cross-national social influence: How foreign votes can affect domestic public opinion." <em>Comparative Political Studies</em>, 2022. <a href="https://journals.sagepub.com/doi/full/10.1177/00104140221088846">Link</a>
 
 	- “Economic shocks and the cost of ruling: Evidence from Italy.” <em>Journal of Elections, Public Opinion, and Parties</em>. 30 (1), 22-41, 2020. (with H. Kriesi) <a href="https://www.tandfonline.com/doi/full/10.1080/17457289.2019.1571496">Link</a>
 
