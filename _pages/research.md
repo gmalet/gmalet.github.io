@@ -15,7 +15,7 @@ My research focuses on public opinion and party competition, with a special focu
 	
 	- "Silent responsiveness: How public opinion affects party discourse on wedge issues" (with C. Thiébaut), Forthcoming at <em>European Journal of Political Research</em>
 	
-	- "The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns", Forthcoming at Journal of European Public Policy</em>
+	- "The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns", Forthcoming at <em>Journal of European Public Policy</em>
 	
 	- "The reverberations of British Brexit politics abroad." (with S. Walter), Forthcoming at <em>European Union Politics</em>.
 
