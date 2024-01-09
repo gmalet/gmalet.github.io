@@ -15,12 +15,13 @@ My research focuses on public opinion and party competition, with a special focu
 	
 	- "Silent responsiveness: How public opinion affects party discourse on wedge issues" (with C. Thiébaut), Forthcoming at <em>European Journal of Political Research</em>
 	
+	- "The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns", Forthcoming at <em>R&R at Journal of European Public Policy</em>
+	
 	- "The reverberations of British Brexit politics abroad." (with S. Walter), Forthcoming at <em>European Union Politics</em>.
 
-	- "Have your cake and eat it, too? Switzerland and the feasibility of differentiated integration after Brexit" <em>West European Politics</em>, 2023. (with S. Walter) <a href="https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2192083">Link</a>
- <em>(2022 EUSA Best Conference Paper Award)</em>
+	- "Have your cake and eat it, too? Switzerland and the feasibility of differentiated integration after Brexit" <em>West European Politics</em>, 2023. (with S. Walter) <a href="https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2192083">Link</a> - <em>(2022 EUSA Best Conference Paper Award)</em>
 
-    - "Cross-national social influence: How foreign votes can affect domestic public opinion." <em>Comparative Political Studies</em>, 2022. <a href="https://journals.sagepub.com/doi/full/10.1177/00104140221088846">Link</a>
+    	- "Cross-national social influence: How foreign votes can affect domestic public opinion." <em>Comparative Political Studies</em>, 2022. <a href="https://journals.sagepub.com/doi/full/10.1177/00104140221088846">Link</a>
 
 	- “Economic shocks and the cost of ruling: Evidence from Italy.” <em>Journal of Elections, Public Opinion, and Parties</em>. 30 (1), 22-41, 2020. (with H. Kriesi) <a href="https://www.tandfonline.com/doi/full/10.1080/17457289.2019.1571496">Link</a>
 
@@ -36,13 +37,11 @@ My research focuses on public opinion and party competition, with a special focu
 
 - **Working papers**
 	
-	- The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns <em>R&R at Journal of European Public Policy</em>
-	
-	- Venue shopping in the mass public
+	- Understanding preferences over borders (with R. Sczepanski and J. Lipps)
+
+	- Venue shopping in the mass public: The search for policy representation in multi-level systems
 	
 	- How threats and promises affect support for international cooperation (with S. Walter)
-	
-	- Understanding preferences over borders (with R. Sczepanski and J. Lipps)
 	 
 	- Does financial assistance mitigate rural backlash? The case of the Common Agricultural Policy in France (with D. Bolet)
 
