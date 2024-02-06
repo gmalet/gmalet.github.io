@@ -13,7 +13,7 @@ My research focuses on public opinion and party competition, with a special focu
 
 - **Journal Articles**
 	
-	- "The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns." Forthcoming at <em>Journal of European Public Policy</em>
+	- "The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns." <em>Journal of European Public Policy</em>, 2024. <a href="https://www.tandfonline.com/doi/full/10.1080/13501763.2024.2311737?src=exp-la">Link</a> 
 	
 	- "Silent responsiveness: How public opinion affects party discourse on wedge issues." <em>European Journal of Political Research</em>, 2024. (with C. Thiébaut) <a href="https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12659">Link</a> 
 	
