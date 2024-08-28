@@ -7,7 +7,7 @@ toc: true
 ---
 
 
-My research focuses on public opinion and democratic representation, with a special focus on the domestic politics of European integration. At the crossroad of European politics and EU politics, I am interested in how voters form their political preferences in an interdependent world, and how party elites both respond to and shape these preferences. 
+My research focuses on public opinion and democratic representation, with a special focus on the domestic politics of European integration. At the crossroad of European politics and EU politics, I am interested in how voters form their political preferences in an interdependent world, and how party elites both respond to and shape these preferences.  
 
 In my current project, financed by an SNSF Ambizione Grant, I investigate how the policies produced by the European Union affect whether people support a political authority beyond the nation state.
 
