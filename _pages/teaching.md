@@ -9,7 +9,7 @@ toc: true
 - **ETH Zurich**, 
     - Contemporary European Politics, BA level, co-taught (Spring 2025)
 
-- **University of Zurich**, 
+- **University of Zurich** 
     - Policies of the European Union, MA level (Spring 2025)
     - Democracy and Multilevel Governance, MA level (Spring 2023)
     - The Political Economy of Elections, MA level (Fall 2020, Fall 2021)
