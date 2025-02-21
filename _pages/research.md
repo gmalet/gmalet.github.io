@@ -16,6 +16,8 @@ In my current project, financed by an SNSF Ambizione Grant, I investigate how th
 
 
 - **Journal Articles**
+
+	- "Understanding preferences over borders." <em>International Studies Quarterly</em>, 2025.(with J. Lipps and R. Sczepanski) <a href="https://doi.org/10.1093/isq/sqaf003">Link</a>
 	
 	- "Silent responsiveness: How public opinion affects party discourse on wedge issues." <em>European Journal of Political Research</em>, 2024. (with C. Thiébaut) <a href="https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12659">Link</a> 
 	
@@ -41,20 +43,18 @@ In my current project, financed by an SNSF Ambizione Grant, I investigate how th
 
 - **Working papers**
 	
-	- Understanding preferences over borders (with J. Lipps and R. Sczepanski)
 
 	- Venue shopping in the mass public: The search for representation in multilevel systems
 	
-	- Does "project fear" work? (with S. Walter)
+	- Making the case for international cooperation: What makes arguments persuasive? (with S. Walter)
 	 
-	- Does financial assistance mitigate rural backlash? The case of the Common Agricultural Policy in France (with D. Bolet)
+	- Green strings attached: The electoral consequences of conditional agricultural subsidies (with D. Bolet)
 	
 	- Group identities and social norms across the left-right divide: Evidence from illegal pushbacks of refugees (with R. Sczepanski and J. Lipps)
 	
-
-- **Work in progress**
-    
-	- Public service deprivation, social capital, and trust in local government (with A. De Angelis, and E. Volpi)
-	
 	- Policy orientation and output legitimacy in the European Union (with T. Hunter, J. Scherzinger, and S. Walter)
+	
+	- The globalization backlash in rural areas: Price shocks, far-right support, and the limits of agricultural subsidies (with D. Bolet)	
+	
+	- The changing geography of support for European integration in the shadow of the Ukraine war (with S. Hegewald)
 
