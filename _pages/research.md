@@ -17,7 +17,9 @@ In my current project, financed by an SNSF Ambizione Grant, I investigate how th
 
 - **Journal Articles**
 
-	- "Understanding preferences over borders." <em>International Studies Quarterly</em>, 69(1), 2025. (with J. Lipps and R. Sczepanski) <a href="https://doi.org/10.1093/isq/sqaf003">Link</a>
+	- "The changing geography of support for European integration in the shadow of the Ukraine war." <em>Journal of European Public Policy</em>, 1-25, 2025. (with S. Hegewald) <a href="https://doi.org/10.1080/13501763.2025.2573757">Link</a>
+
+  - "Understanding preferences over borders." <em>International Studies Quarterly</em>, 69(1), 2025. (with J. Lipps and R. Sczepanski) <a href="https://doi.org/10.1093/isq/sqaf003">Link</a>
 
 	- "The activation of nationalist attitudes: How voters respond to far-right parties’ campaigns." <em>Journal of European Public Policy</em>, 32(1), 184-208, 2025. <a href="https://www.tandfonline.com/doi/full/10.1080/13501763.2024.2311737">Link</a> 
 	
@@ -56,5 +58,4 @@ In my current project, financed by an SNSF Ambizione Grant, I investigate how th
 	
 	- The globalization backlash in rural areas: Price shocks, far-right support, and the limits of agricultural subsidies (with D. Bolet)	
 	
-	- The changing geography of support for European integration in the shadow of the Ukraine war (with S. Hegewald)
 
