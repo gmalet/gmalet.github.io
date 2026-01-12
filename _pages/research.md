@@ -27,7 +27,8 @@ In my current project, financed by an SNSF Ambizione Grant, I investigate how th
   
   - "The reverberations of British Brexit politics abroad." <em>European Union Politics</em>, 25(1), 63-85, 2024. (with S. Walter), <a href="https://journals.sagepub.com/doi/full/10.1177/14651165231207225">Link</a> 
   
-  - "Have your cake and eat it, too? Switzerland and the feasibility of differentiated integration after Brexit." <em>West European Politics</em>, 47(5), 1150-79, 2024. (with S. Walter) <a href="https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2192083">Link</a> - <em>(2022 EUSA Best Conference Paper Award)</em>
+  - "Have your cake and eat it, too? Switzerland and the feasibility of differentiated integration after Brexit." <em>West European Politics</em>, 47(5), 1150-79, 2024. (with S. Walter) <a href="https://www.tandfonline.com/doi/full/10.1080/01402382.2023.2192083">Link</a> 
+	- <em>(2022 EUSA Best Conference Paper Award)</em>
   
   - "Cross-national social influence: How foreign votes can affect domestic public opinion." <em>Comparative Political Studies</em>, 55(14), 2416–46, 2022. <a href="https://journals.sagepub.com/doi/full/10.1177/00104140221088846">Link</a>
   
