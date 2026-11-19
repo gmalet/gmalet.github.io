@@ -17,7 +17,7 @@ In my current project, financed by an SNSF Ambizione Grant, I investigate how th
 
 - **Journal Articles**
 
-	- "Whose priorities? Media reporting and the output legitimacy of international organizations." em>Review of International Organizations</em>, 2026.(with T. Hunter, J. Scherzinger, and S. Walter) <a href="https://link.springer.com/article/10.1007/s11558-026-09658-y">Link</a>
+	- "Whose priorities? Media reporting and the output legitimacy of international organizations." <em>Review of International Organizations</em>, 2026.(with T. Hunter, J. Scherzinger, and S. Walter) <a href="https://link.springer.com/article/10.1007/s11558-026-09658-y">Link</a>
 
 	- "The changing geography of support for European integration in the shadow of the Ukraine war." <em>Journal of European Public Policy</em>, 1-25, 2025. (with S. Hegewald) <a href="https://doi.org/10.1080/13501763.2025.2573757">Link</a>
 
