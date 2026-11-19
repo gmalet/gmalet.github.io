@@ -7,7 +7,7 @@ toc: true
 ---
 
 
-My research focuses on public opinion and democratic representation, with a special focus on the domestic politics of European integration. At the crossroad of European politics and EU politics, I am interested in how voters form their political preferences in an interdependent world, and how party elites both respond to and shape these preferences.  
+My research focuses on public opinion and democratic representation, with a special focus on the domestic politics of European integration. At the crossroad of European politics and EU politics, I am interested in how voters form their political preferences in an interdependent world, and how party elites and public policies both respond to and shape these preferences.  
 
 In my current project, financed by an SNSF Ambizione Grant, I investigate how the policies produced by the European Union affect whether people support a political authority beyond the nation state.
 
@@ -49,14 +49,15 @@ In my current project, financed by an SNSF Ambizione Grant, I investigate how th
 - **Working papers**
 	
 
-	- Venue shopping in the mass public: The search for representation in multilevel systems
-	
-	- Making the case for international cooperation: What makes arguments persuasive? (with S. Walter)
+	- Framing cooperation: Gains, losses, and public support for international compromise (with S. Walter) <a href="https://www.urpp-equality.uzh.ch/dam/jcr:fc12e2db-3098-4421-97ac-1cb91bb462dd/95_framing_cooperation.pdf">Link</a>
 	 
-	- Green strings attached: The electoral consequences of conditional agricultural subsidies (with D. Bolet)
+	- Conditional subsidies and political backlash in the green transition (with D. Bolet) <a href="https://www.urpp-equality.uzh.ch/dam/jcr:2c07d98b-b922-46d3-a57d-82b05b13b062/96_conditional_subsidies.pdf">Link</a>
+	
+	- Venue shopping in the mass public: The search for representation in multilevel systems
 	
 	- Group identities and social norms across the left-right divide: Evidence from illegal pushbacks of refugees (with R. Sczepanski and J. Lipps)
 	
 	- The globalization backlash in rural areas: Price shocks, far-right support, and the limits of agricultural subsidies (with D. Bolet)	
 	
+	- Migrant labor and far-right support in rural France (with D. Bolet and S. Cremaschi)	
 
