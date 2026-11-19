@@ -17,6 +17,8 @@ In my current project, financed by an SNSF Ambizione Grant, I investigate how th
 
 - **Journal Articles**
 
+	- "Whose priorities? Media reporting and the output legitimacy of international organizations." em>Review of International Organizations</em>, 2026.(with T. Hunter, J. Scherzinger, and S. Walter) <a href="https://link.springer.com/article/10.1007/s11558-026-09658-y">Link</a>
+
 	- "The changing geography of support for European integration in the shadow of the Ukraine war." <em>Journal of European Public Policy</em>, 1-25, 2025. (with S. Hegewald) <a href="https://doi.org/10.1080/13501763.2025.2573757">Link</a>
 
   - "Understanding preferences over borders." <em>International Studies Quarterly</em>, 69(1), 2025. (with J. Lipps and R. Sczepanski) <a href="https://doi.org/10.1093/isq/sqaf003">Link</a>
@@ -54,8 +56,6 @@ In my current project, financed by an SNSF Ambizione Grant, I investigate how th
 	- Green strings attached: The electoral consequences of conditional agricultural subsidies (with D. Bolet)
 	
 	- Group identities and social norms across the left-right divide: Evidence from illegal pushbacks of refugees (with R. Sczepanski and J. Lipps)
-	
-	- Policy orientation and output legitimacy in the European Union (with T. Hunter, J. Scherzinger, and S. Walter)
 	
 	- The globalization backlash in rural areas: Price shocks, far-right support, and the limits of agricultural subsidies (with D. Bolet)	
 	
